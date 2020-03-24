@@ -14,6 +14,7 @@ class ButtonListener implements ActionListener
 	}
 }
 
+//added other line as test
 class ButtonCloser extends WindowAdapter
 {
     public void windowClosing(WindowEvent we)
