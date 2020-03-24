@@ -25,6 +25,7 @@ class ButtonCloser extends WindowAdapter
 }
 
 //p1 edit for git test
+//second p1 edit
 public class ButtonFrame extends JFrame
 {
 	public ButtonFrame()
